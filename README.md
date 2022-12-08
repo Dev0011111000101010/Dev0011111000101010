@@ -4,10 +4,11 @@
 - 💞️ I am looking for job opportunities <br>
   (Fully US Work Authorized ∙ No Visa Sponsorship Required) <br>
   (San Francisco, California, United States, 94114)
-- 📫 How to reach me [WhatsApp]([url](https://wa.me/19299958615)) [Telegram]([url](https://telegram.me/aristaua)) [LinkedIn]([url](https://www.linkedin.com/in/illialevchenko/))
+- 📫 How to reach me <a href="https://wa.me/19299958615" target="_blank">WhatsApp</a> <a href="https://www.linkedin.com/in/illialevchenko/" target="_blank">LinkedIn</a> <a href="https://telegram.me/aristaua" target="_blank">Telegram</a>
 
 Some projects to see:
-1. [GitHub contribution to Google Open Source: Added check: Username can only start with a letter]([url](https://github.com/google/it-cert-automation-practice/pull/24186)) (#Git #GitLab #Google #Open-source #RegEx Python {re}) I made a [merge/pull request]([url](https://github.com/google/it-cert-automation-practice/pull/24186)) (#Git #GitLab) that fixes [Bug #1 in the Google repository]([url](https://github.com/google/it-cert-automation-practice/issues/1))
+
+1. <a href="https://github.com/google/it-cert-automation-practice/pull/24186" target="_blank">GitHub contribution to Google Open Source: Added check: Username can only start with a letter</a> (#Git #GitLab #Google #Open-source #RegEx Python {re}) I made a <a href="https://github.com/google/it-cert-automation-practice/pull/24186" target="_blank">merge/pull request</a> (#Git #GitLab) that fixes <a href="https://github.com/google/it-cert-automation-practice/issues/1">Bug #1 in the Google repository</a>
 <br>Language{modules, libraries}: Python{re}
 <br>Made: Added check: Username can only start with a letter
 
@@ -20,3 +21,5 @@ Some projects to see:
 <br>Made1: (TIFF 3000x2000px RGBA) => ( JPEG 600x400px RGB)  => Django REST
 <br>Made2: TXT => JSON => Django REST
 <br>Made3: TXT => PDF => E-mail
+
+
