@@ -4,7 +4,7 @@
 - 💞️ I am looking for job opportunities <br>
   (Fully US Work Authorized ∙ No Visa Sponsorship Required) <br>
   (San Francisco, California, United States, 94114)
-- 📫 How to reach me <a href="https://wa.me/19299958615" target="_blank">WhatsApp</a> <a href="https://www.linkedin.com/in/illialevchenko/" target="_blank">LinkedIn</a> <a href="https://telegram.me/aristaua" target="_blank">Telegram</a>
+- 📫 How to reach me <a href="https://wa.me/19299958615" target="_blank">WhatsApp</a> ∙ <a href="https://www.linkedin.com/in/illialevchenko/" target="_blank">LinkedIn</a> ∙ <a href="https://telegram.me/aristaua" target="_blank">Telegram</a>
 
 Some projects to see:
 
