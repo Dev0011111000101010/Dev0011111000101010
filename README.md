@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ILLIA LEVCHENKO
 - 👀 I’m interested in IT automation with Python role <br>
-<b>(DevOps    ∙    QA Automation    ∙    Automation Engineer    ∙    Automation Developer)</b>
+<b>(DevOps    ∙    QA Automation    ∙    Automation Engineer/Developer ∙ System Administrator ∙ IT support)</b>
 - 💞️ I am looking for job opportunities <br>
   (Fully US Work Authorized ∙ No Visa Sponsorship Required) <br>
   (San Francisco, California, United States, 94114)
