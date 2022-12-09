@@ -8,7 +8,7 @@
 
 
 <h4>Some projects to see:</h4>
-1. <b><a href="https://github.com/google/it-cert-automation-practice/pull/24186" target="_blank">GitHub contribution to Google Open Source: Added check: Username can only start with a letter</a></b> (#Git #GitLab #Google #Open-source #RegEx Python {re}) I made a <a href="https://github.com/google/it-cert-automation-practice/pull/24186" target="_blank">merge/pull request</a> (#Git #GitLab) that fixes <a href="https://github.com/google/it-cert-automation-practice/issues/1">Bug #1 in the Google repository</a>
+1. <b>GitHub <a href="https://github.com/google/it-cert-automation-practice/pull/24186" target="_blank">contribution to Google Open Source</a>: Added check: Username can only start with a letter</b> (#Git #GitLab #Google #Open-source #RegEx Python {re}) I made a <a href="https://github.com/google/it-cert-automation-practice/pull/24186" target="_blank">merge/pull request</a> (#Git #GitLab) that fixes <a href="https://github.com/google/it-cert-automation-practice/issues/1">Bug #1 in the Google repository</a>
 <br>    ∙ Language{modules, libraries}: Python{re}
 <br>    ∙ Made: Added check = Username can only start with a letter
 <br>
