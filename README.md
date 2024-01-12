@@ -1,16 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m ILLIA LEVCHENKO
+<b>| SDET</b>
+- 💞️ I am open for job opportunities <br>
+  (San Francisco, California, United States)
+- 📫 How to reach me   <a href="https://wa.me/19299958615" target="_blank">WhatsApp</a>    ∙    <a href="https://www.linkedin.com/in/illia-l-sdet/" target="_blank">LinkedIn</a>    ∙    <a href="https://telegram.me/aristaglobal" target="_blank">Telegram</a>
 
-<!--
-**Dev0011111000101010/Dev0011111000101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0011111000101010&layout=compact)
+
+
+
+
